@@ -11,6 +11,7 @@ RANK_URL = "https://us-central1-cp-multiplayer.cloudfunctions.net/SetUserRating4
 
 # --- Multiple accounts list (SAFE) ---
 ACCOUNTS = [
+    {"email": "den_isaev_9595@mail.ru", "password": "Zaebali1995"},
     {"email": "cpmcpmking1@gmail.com", "password": "666666"},
     {"email": "cpmcpmking2@gmail.com", "password": "666666"},
     {"email": "cpmcpmking3@gmail.com", "password": "666666"},
@@ -60,6 +61,7 @@ ACCOUNTS = [
     {"email": "cpmcpmking49@gmail.com", "password": "666666"},
     {"email": "cpmcpmking50@gmail.com", "password": "666666"},
     {"email": "cpmcpmking51@gmail.com", "password": "666666"},
+    {"email": "den_isaev_95@mail.ru", "password": "Zaebali1995"},
     {"email": "kingcpmcpm1@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm2@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm3@gmail.com", "password": "666666"},
