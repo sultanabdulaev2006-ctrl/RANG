@@ -19,7 +19,7 @@ ACCOUNTS = [
     {"email": "cpmcpmking5@gmail.com", "password": "666666"},
     {"email": "cpmcpmking6@gmail.com", "password": "666666"},
     {"email": "cpmcpmking7@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking8@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking88@gmail.com", "password": "666666"},
     {"email": "cpmcpmking9@gmail.com", "password": "666666"},
     {"email": "cpmcpmking10@gmail.com", "password": "666666"},
     {"email": "cpmcpmking11@gmail.com", "password": "666666"},
